@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>my page</h1>
+</body>
+</html>
+<H>HELLO WORLD</H>
+<p>
+    my name is
+    <b>ISHWA</b>
+</p>
+<table border="2"  style="background-color:ivory" style="color:purple" cellpadding="9" cellspacing="10"><caption><b><u>list of items</u> </b>
+<tr><th>list1</th>
+<th>list2</th>
+<th>list3</th>
+<th>list4</th>
+<th>list5</th>
+<th>list6</th>
+<th>list7</th>
+</tr>
+<tr>
+    <th>apples</th>
+    <td>180</td>
+    <td>280</td>
+    <td>380</td>
+    <td>480</td>
+    <td>580</td>
+    <td>680</td>
+</tr>
+<tr>
+    <th>mangoes</th>
+    <td>180</td>
+    <td>280</td>
+    <td>380</td>
+    <td>480</td>
+    <td>580</td>
+    <td>680</td>
+</tr>
+<tr>
+    <th>oranges</th>
+    <td>180</td>
+    <td>280</td>
+     <td>380</td>
+    <td>480</td>
+    <td>580</td>
+    <td>680</td>
+</tr>
+<tr>
+    <th>pinapple</th>
+    <td>180</td>
+    <td>280</td>
+     <td>380</td>
+    <td>480</td>
+    <td>580</td>
+    <td>680</td>
+</tr>
+</caption>
+</table>
+
+
+
