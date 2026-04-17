@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h>ISHWA</h>
+    <table border="3" style="color:purple;">
+        <tr> 
+            <th style="background-color: black;">list 1</th>
+            <th style="background-color: black;">list 2</th>
+            <th style="background-color: black;">list 3</th>
+        </tr>
+
+        <tr> 
+            <th rowspan="2" style="background-color: black;">list 1</th>
+            <th style="background-color: black;">list 2</th>
+            <th style="background-color: black;">list 3</th>
+        </tr>
+
+        <tr> 
+            <th colspan="2" style="background-color: black;">list 1</th>
+            <th style="background-color: black;">list 2</th>
+            <th style="background-color: black;">list 3</th>
+        </tr>
+
+
+    </table>
+    <h2>myself
+    </h2>
+    <p>
+        My name is ISHWA
+    </p>
+    <p>
+        
+    </p>
+    
+</body>
+</html>
