@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: pink;" id="top">
+
+    <h1>ISHWA REHMAN</h1>
+    <h2>student registration form:</h2>
+    <form>
+        <p>username</p>
+        <input type ="text" maxlength="15">
+        <p>first name</p>
+        <input type ="text">
+        <p>last name</p>
+        <input type ="text">
+        <P>
+            enter your password
+        </P>
+        <input type="password" name ="password">
+        <p>
+            gender
+        </p>
+        <input type="radio" name = "gender" value ="F">female
+<input type="radio"name = "gender" value ="M">male
+
+<br>
+
+<input type ="checkbox">bio
+<input type ="checkbox">phy
+<input type ="checkbox">chem
+<input type ="checkbox">eng
+<input type ="checkbox">urdu
+<input type ="checkbox">geology
+    </form>
+    <br>
+    <select>
+        <option name ="nationality" value = "pakistan"></option>
+        <multiple name="nationality" value = "pakistan,pelestine"></multiple>
+    </select>
+    <textarea name="textarea" rows="10" cols="30">enter your point of view</textarea>  
+<br>
+    <input type ="file">
+<input type = "submit" value="upload">
+<br>
+<br>
+<input type = "submit" value="submit">
+<form action ="url" method="post">
+
+</form>
+<table border ="3" color="red">
+    <caption><b>MYSELF</b></caption>
+    <tr>
+<th> study</th>
+<th> health</th>
+<th> quran</th>
+<th> food</th>
+<th> hobbies</th>
+    </tr>
+    <tr>
+        <td>24</td>
+        <td>34</td>
+        <td>44</td>
+        <td>54</td>
+        <td>74</td>
+    </tr>
+    <tr>
+    <td>24</td>
+        <td rowsspan ="2" colspan="3">34</td>
+        <td>44</td>
+        
+    <tr> 
+        <tr>
+    <td>24</td>
+        <td rowspan ="4">34</td>
+        <td>44</td>
+        <td>54</td>
+        <td>74</td>
+    <tr> 
+
+    
+</table>
+<a href ="top">go to top</a>
+</body>
+</html>
