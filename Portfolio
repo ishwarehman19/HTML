@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>ISHWA REHMAN</h1>
+    <h2>EDUCATION</h2>
+    <ul>
+        <li>10th class : 1020</li>
+        <li>12th class: 1050</li>
+        <li>Bachelor in cybersecurity: 3.19</li>
+    </ul>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML,CSS,javaScript</li>
+        <li>Nodejs,SQL</li>
+        <li>Java,Python</li>
+    </ul>
+
+    <h2>Hobbies</h2>
+    <ul>
+        <li>reading</li>
+        <li>drawing</li>
+        <li>painting</li>
+        <li>writing</li>
+    </ul>
+
+    <h2>Contact Me</h2>
+    <ul>
+        <li><b>Email:</b></li>
+        <li>contact no</li>
+    </ul>
+
+    <p>Made with &hearts; by Ishwa</p>
+    
+</body>
+</html>
